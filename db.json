@@ -1,0 +1,64 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Nyuci mobil",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "task": "Memberi makan kucing",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "task": "Olahraga 10 menit",
+      "complete": true
+    },
+    {
+      "id": 4,
+      "task": "Sarapan sereal",
+      "complete": true
+    },
+    {
+      "id": 5,
+      "task": "Belanja harian",
+      "complete": true
+    },
+    {
+      "id": 6,
+      "task": "Ngeprint tugas",
+      "complete": true
+    },
+    {
+      "id": 7,
+      "task": "Bayar tagihan bulanan",
+      "complete": true
+    },
+    {
+      "id": 8,
+      "task": "Berangkat kuliah",
+      "complete": true
+    },
+    {
+      "id": 9,
+      "task": "Les bahasa Inggris",
+      "complete": false
+    },
+    {
+      "id": 10,
+      "task": "Ke rumah Sabrina",
+      "complete": true
+    },
+    {
+      "task": "Bucin",
+      "complete": false,
+      "id": 11
+    },
+    {
+      "task": "Temu Dia",
+      "complete": false,
+      "id": 12
+    }
+  ]
+}
